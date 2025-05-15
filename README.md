@@ -1,1 +1,1 @@
-# NEX-Cre data analysis calssifaction with PCA,t-SNE and SVM
+# NEX-Cre data analysis classifaction with PCA,t-SNE and SVM
